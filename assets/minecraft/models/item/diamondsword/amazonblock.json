@@ -1,0 +1,6 @@
+{
+	"parent": "item/itemmodels/swordblock",
+	"textures": {
+	  "layer0": "item/amazon/amazon"
+    }   
+}

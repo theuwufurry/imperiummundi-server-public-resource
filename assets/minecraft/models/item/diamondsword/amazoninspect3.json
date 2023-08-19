@@ -1,0 +1,6 @@
+{
+	"parent": "item/itemmodels/inspect3",
+	"textures": {
+	  "layer0": "item/amazon/amazon"
+    }
+    }

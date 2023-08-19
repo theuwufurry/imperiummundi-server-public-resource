@@ -1,0 +1,17 @@
+{
+    "theuwufurry.gymnoedies": {
+    "category": "music",
+    "sounds": [
+    "Gymnoedies"
+  ],
+    "subtitle": "subtitles.custom.Gymnoedies"
+  },
+
+    "theuwufurry.axels_theme": {
+    "category": "music",
+    "sounds": [
+    "Axels_Theme"
+  ],
+    "subtitle": "subtitles.custom.Axels_Theme"
+  }
+}
