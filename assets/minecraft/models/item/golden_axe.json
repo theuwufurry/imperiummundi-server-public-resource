@@ -5,7 +5,8 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":50}, "model": "item/goldenaxe/poleaxe"}
-
+		{"predicate": {"custom_model_data":50}, "model": "item/goldenaxe/poleaxe"},
+		{"predicate": {"custom_model_data":51}, "model":
+			"item/goldenaxe/poleaxegold"}
 	]
 }
