@@ -1,20 +1,16 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/iron_sword"
-    },
-    "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 719
-            },
-            "model": "item/ferrets/amazon"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 73121
-            },
-            "model": "item/ferrets/fencer"
-        }
-    ]
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_sword"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/diamondsword/infintyblade"},
+		{"predicate": {"custom_model_data":2}, "model": "item/diamondsword/bigsword"},
+		{"predicate": {"custom_model_data":3}, "model": "item/diamondsword/amazon"},
+		{"predicate": {"custom_model_data":4}, "model": "item/diamondsword/amazonblock"},
+		{"predicate": {"custom_model_data":5001}, "model": "item/diamondsword/amazoninspect1"},
+		{"predicate": {"custom_model_data":5002}, "model": "item/diamondsword/amazoninspect2"},
+		{"predicate": {"custom_model_data":5003}, "model": "item/diamondsword/amazoninspect3"}
+	]
 }
