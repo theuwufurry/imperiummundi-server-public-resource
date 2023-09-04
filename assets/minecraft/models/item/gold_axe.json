@@ -1,0 +1,20 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/gold_axe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 34953
+            },
+            "model": "item/ferrets/poleaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 43662
+            },
+            "model": "item/ferrets/poleaxegold"
+        }
+    ]
+}

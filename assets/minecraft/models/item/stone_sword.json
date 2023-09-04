@@ -1,6 +1,14 @@
 {
-    "parent": "item/generated",
-	"textures": {
-        "layer0": "minecraft:item/stone_sword"
-    }
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_sword"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 63251
+            },
+            "model": "item/ferrets/bigsword"
+        }
+    ]
 }

@@ -1,14 +1,14 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/diamond_sword"
+        "layer0": "item/golden_sword"
     },
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 37660
+                "custom_model_data": 13136
             },
-            "model": "item/ferrets/infintyblade"
+            "model": "item/ferrets/swarmer"
         }
     ]
 }

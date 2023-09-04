@@ -1,0 +1,20 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_sword"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 719
+            },
+            "model": "item/ferrets/amazon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 73121
+            },
+            "model": "item/ferrets/fencer"
+        }
+    ]
+}
