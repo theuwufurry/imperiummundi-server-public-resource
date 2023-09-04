@@ -1,5 +1,5 @@
 {
-    "parent": "item/itemmodels/big",
+    "parent": "item/generated",
     "textures": {
         "layer0": "item/boarddognft"
     }
