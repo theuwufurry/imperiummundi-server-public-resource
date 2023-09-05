@@ -1,0 +1,6 @@
+{
+    "parent": "item/itemmodels/normal",
+    "textures": {
+        "layer0": "item/knife_scout"
+    }
+}
