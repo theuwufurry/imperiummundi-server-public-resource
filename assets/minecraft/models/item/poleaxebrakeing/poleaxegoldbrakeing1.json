@@ -1,6 +1,0 @@
-{
-    "parent": "item/itemmodels/big",
-    "textures": {
-        "layer0": "item/poleaxebrakeing/poleaxegoldbrakeing1"
-    }
-}
