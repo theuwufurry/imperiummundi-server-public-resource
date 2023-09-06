@@ -1,12 +1,8 @@
 {
-<<<<<<< Updated upstream:assets/minecraft/models/item/itemmodels/big.json
-    "parent": "item/generated" ,
-=======
-	"parent": "item/handheld",
+	"parent": "item/itemmodels/swordblock",
 	"textures": {
-	  "layer0": "item/champion/bigsword"
+	  "layer0": "item/amazon/amazon"
     },
->>>>>>> Stashed changes:assets/minecraft/models/item/diamondsword/bigsword.json
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 0, -90, 55 ],
@@ -40,12 +36,8 @@
         },
         "gui": {
             "rotation": [ 0, 0, 0 ],
-<<<<<<< Updated upstream:assets/minecraft/models/item/itemmodels/big.json
-            "translation": [ 0, 0, 0 ],
-=======
             "translation": [ 0, 1, 0 ],
->>>>>>> Stashed changes:assets/minecraft/models/item/diamondsword/bigsword.json
             "scale": [ 2, 2, 1.0 ]
         }
     }
-}
+}   

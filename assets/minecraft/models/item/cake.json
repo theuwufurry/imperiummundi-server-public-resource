@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
     "parent": "item/generated",
     "textures": {
         "layer0": "item/cake"
@@ -11,4 +12,14 @@
             "model": "item/ferrets/poundcake"
         }
     ]
+=======
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cake"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":100}, "model": "item/cake/poundcake"}
+	]
+>>>>>>> Stashed changes
 }
