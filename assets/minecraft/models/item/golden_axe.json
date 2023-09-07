@@ -6,6 +6,27 @@
     "overrides": [
         {
             "predicate": {
+                "damaged": 1,
+                "damage": 0.85
+            },
+            "model": "item/gold_axe"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.9
+            },
+            "model": "item/gold_axe"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.95
+            },
+            "model": "item/gold_axe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 34953
             },
             "model": "item/ferrets/poleaxe"
@@ -15,6 +36,30 @@
                 "custom_model_data": 102228
             },
             "model": "item/ferrets/poleaxegold"
-        }      
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102228,
+                "damaged": 1,
+                "damage": 0.50
+            },
+            "model": "item/ferrets/poleaxegoldbraking1"
+        },      
+        {
+            "predicate": {
+                "custom_model_data": 102228,
+                "damaged": 1,
+                "damage": 0.75
+            },
+            "model": "item/ferrets/poleaxegoldbraking2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102228,
+                "damaged": 1,
+                "damage": 0.95
+            },
+            "model": "item/ferrets/poleaxegoldbraking3"
+        }
     ]
 }
