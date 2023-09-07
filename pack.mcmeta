@@ -1,6 +1,11 @@
 {
    "pack": {
+<<<<<<< Updated upstream
+      "pack_format": 12,
+      "description": "by theuwufurry v0.1 hello jon wrote this"
+=======
       "pack_format": 15,
       "description": "by theuwufurry v0.1"
+>>>>>>> Stashed changes
    }
 }
