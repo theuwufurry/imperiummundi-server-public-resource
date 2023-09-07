@@ -15,12 +15,6 @@
                 "custom_model_data": 73121
             },
             "model": "item/ferrets/fencer"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 51327
-            },
-            "model": "item/ferrets/cutlass"
         }
     ]
 }
