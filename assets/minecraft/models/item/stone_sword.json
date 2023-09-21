@@ -6,15 +6,15 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 63251
-            },
-            "model": "item/ferrets/bigsword"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 36480
             },
             "model": "item/ferrets/knife_scout"
+        }, 
+        {
+            "predicate": {
+                "custom_model_data": 63251
+            },
+            "model": "item/ferrets/bigsword"
         }
     ]
 }
